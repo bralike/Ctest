@@ -1,0 +1,1 @@
+/usr/bin/gcc    -fPIC CMakeFiles/cmake_test1.dir/hello.c.o  -o ../bin/cmake_test1 -rdynamic 

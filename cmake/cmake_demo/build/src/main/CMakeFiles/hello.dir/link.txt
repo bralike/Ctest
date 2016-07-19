@@ -1,0 +1,1 @@
+/usr/bin/gcc    -fPIC CMakeFiles/hello.dir/main.o  -o ../../../bin/hello -rdynamic -L/home/cao/Ctest/cmake/cmake_demo/lib ../../../lib/libutil.a -Wl,-rpath,/home/cao/Ctest/cmake/cmake_demo/lib 

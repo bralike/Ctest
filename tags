@@ -1,0 +1,341 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CMAKE_BINARY_DIR	cmake/cmake_demo/build/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo\/build$/;"	m
+CMAKE_BINARY_DIR	cmake/cmake_demo/build/src/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo\/build$/;"	m
+CMAKE_BINARY_DIR	cmake/cmake_demo/build/src/main/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo\/build$/;"	m
+CMAKE_BINARY_DIR	cmake/cmake_demo/build/src/util/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo\/build$/;"	m
+CMAKE_BINARY_DIR	cmake/test1/Build/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/test1\/Build$/;"	m
+CMAKE_BINARY_DIR	cmake/test2/build/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/test2\/build$/;"	m
+CMAKE_BINARY_DIR	cmake/test2/build/lib/Makefile	/^CMAKE_BINARY_DIR = \/home\/cao\/Ctest\/cmake\/test2\/build$/;"	m
+CMAKE_COMMAND	cmake/cmake_demo/build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/cmake_demo/build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/cmake_demo/build/src/main/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/cmake_demo/build/src/util/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/test1/Build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/test2/build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	cmake/test2/build/lib/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/cmake_demo/build/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/cmake_demo/build/src/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/cmake_demo/build/src/main/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/cmake_demo/build/src/util/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/test1/Build/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/test2/build/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_EDIT_COMMAND	cmake/test2/build/lib/Makefile	/^CMAKE_EDIT_COMMAND = \/usr\/bin\/ccmake$/;"	m
+CMAKE_SOURCE_DIR	cmake/cmake_demo/build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo$/;"	m
+CMAKE_SOURCE_DIR	cmake/cmake_demo/build/src/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo$/;"	m
+CMAKE_SOURCE_DIR	cmake/cmake_demo/build/src/main/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo$/;"	m
+CMAKE_SOURCE_DIR	cmake/cmake_demo/build/src/util/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/cmake_demo$/;"	m
+CMAKE_SOURCE_DIR	cmake/test1/Build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/test1$/;"	m
+CMAKE_SOURCE_DIR	cmake/test2/build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/test2$/;"	m
+CMAKE_SOURCE_DIR	cmake/test2/build/lib/Makefile	/^CMAKE_SOURCE_DIR = \/home\/cao\/Ctest\/cmake\/test2$/;"	m
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	31;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	47;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	31;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	47;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	31;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	47;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+HELLO_H	cmake/test2/lib/hello.h	2;"	d
+ID_VOID_MAIN	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+ID_VOID_MAIN	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+ID_VOID_MAIN	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+OBJ	Makefile	/^OBJ = one.o two.o$/;"	m
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+RM	cmake/cmake_demo/build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/cmake_demo/build/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/cmake_demo/build/src/main/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/cmake_demo/build/src/util/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/test1/Build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/test2/build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	cmake/test2/build/lib/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	cmake/cmake_demo/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/cmake_demo/build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/cmake_demo/build/src/main/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/cmake_demo/build/src/util/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/test1/Build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/test2/build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	cmake/test2/build/lib/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	cmake/cmake_demo/build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/cmake_demo/build/src/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/cmake_demo/build/src/main/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/cmake_demo/build/src/util/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/test1/Build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/test2/build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	cmake/test2/build/lib/Makefile	/^SUFFIXES =$/;"	m
+convert	vimtest.c	/^void convert(long n ,char* p){$/;"	f
+hello	cmake/cmake_demo/src/util/hello.c	/^void hello(void){$/;"	f
+helloFunction	cmake/test2/lib/hello.c	/^void helloFunction(){$/;"	f
+info_compiler	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+main	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	cmake/cmake_demo/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	cmake/cmake_demo/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	cmake/cmake_demo/src/main/main.c	/^int main()$/;"	f
+main	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	cmake/test1/Build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	cmake/test1/Build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	cmake/test1/hello.c	/^int main(){$/;"	f
+main	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	cmake/test2/build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	cmake/test2/build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	two.c	/^int main(void){$/;"	f
+main	vimtest.c	/^void main(){$/;"	f
+msg	one.c	/^void msg(void){$/;"	f
